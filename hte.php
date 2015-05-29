@@ -3,7 +3,7 @@
 define('DS',DIRECTORY_SEPARATOR);
 /**
 * HTML Template Engine
-* it's a very simple Template Engine - look like laravel Template :D - 
+* it's a very simple Template Engine - looks like laravel Template :D - 
 * @author Ahmed Ashraf
 * @version 0.0.1
 * GitHub  : github.com/ahmedash95
